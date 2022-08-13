@@ -1,0 +1,36 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: radial-gradient(rgb(255, 0, 225),black);
+}
+.header_div
+{
+    color:white;
+}
+.header_div p
+{
+    color:white;
+    letter-spacing:2px;
+    font-size: 12px;
+    font-weight:bold;
+}
+
+.main_div button
+{
+    color:white;
+    margin: top 30px;
+    width:130px;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+
+.copy_right_footer{
+    color:white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+   line-height: 3;
+    font-weight: bolder;
+    text-align: center;
+}
+
